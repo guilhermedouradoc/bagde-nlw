@@ -3,6 +3,7 @@ CSS - Cascading stylesheet
 */
 * {
   margin: 0;
+  padding: 0;
 }
 
 html,
